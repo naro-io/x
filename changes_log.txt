@@ -1,0 +1,1 @@
+Updating fonts: replaced settings buttons and setFont mapping, added @font-face declarations for ALDHABI, AlaTypoo, DWNOUTSH, KFXFTOUT, PTBLDBRK. Updated updateFontButtons IDs to match new font ids.
